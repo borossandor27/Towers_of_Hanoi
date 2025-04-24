@@ -8,4 +8,4 @@ A feladat kiinduló helyzetében adott egy torony, amely különböző méretű 
 - Egy korongot sosem helyezhetünk egy kisebb korongra.
 - A tornyot egy harmadik segédoszlop segítségével kell áthelyeznünk.
 
-Ha `n` a korongok száma, akkor az optimális megoldáshoz szükséges lépések száma: 2^n-1.
+Ha `n` a korongok száma, akkor az optimális megoldáshoz szükséges lépések száma: `2^n-1`.
